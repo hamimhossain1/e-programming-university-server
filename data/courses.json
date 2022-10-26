@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "HTML",
+        "price": 109.95,
+        "description": "HTML, short for HyperText Markup Language, is the foundation of all web pages. It was created by Tim Berneres-Lee in 1993 to define the structure of a web page. Without it, you wouldn’t be able to organize text or add images or videos to your pages. HTML is the beginning of everything you need to know to make your first website.",
+        "category": "HTML",
+        "image": "https://i.ibb.co/yY0NMdz/html.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "C",
+        "price": 22.3,
+        "description": "C is a powerful mid to low-level compiled programming language used in operating systems, as the base for higher level languages like C++ and Python, and in high-performance applications. It excels in speed and performance giving the programmer great control over the system.The C language was created by Dennis Ritchie in Bell Labs in the 1970s. It was designed to be a system implementation language for the nascent Unix operating system.",
+        "category": "C",
+        "image": "https://i.ibb.co/FsHFkPN/c.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Python",
+        "price": 55.99,
+        "description": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Whatever you want to do, Python can do it. From data analysis to data visualization, web development to machine learning, Python is the language for you.It was created by Guido van Rossum in 1991 and was named after the British comedy show, Monty Python’s Flying Circus.",
+        "category": "Python",
+        "image": "https://i.ibb.co/Fz4RvVv/python.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "PHP",
+        "price": 15.99,
+        "description": "PHP (a recursive acronym for “PHP Hypertext Preprocessor”) is a popular open-source scripting language widely used as a server-side tool for creating dynamic web pages.A big part of PHP’s value is its use as a dynamic scripting language that works hand-in-hand with HTML.A PHP interpreter makes a website dynamic and customizable, allowing a site to respond to user input or information in some expected way. The interpreter is a key link between the user and web server, databases, and the relevant files or responses sent back to that user.",
+        "category": "PHP",
+        "image": "https://i.ibb.co/C6H4R4y/php.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "React",
+        "price": 695,
+        "description": "React is a free and open-source JavaScript library for building user interfaces or front-end webpage components such as forms along with fields like text areas and buttons. Since its release in 2013, React has been maintained by Meta (formerly Facebook) along with a community of developers and companies. It is component-based. An example of a component could be a form or even just a form field or button on a website. In React, applications are completely built with components. Some of the most persistent issues of front-end development are solved with React, allowing one to build dynamic and interactive web apps with ease. It is fast, scalable, flexible, powerful, and has a robust developer community that’s rapidly growing.",
+        "category": "React",
+        "image": "https://i.ibb.co/PDR897d/react.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "CSS ",
+        "price": 168,
+        "description": "CSS, short for Cascading Style Sheets, is a style sheet language used to style websites. Colors, fonts, and page layouts for a site can all be managed using CSS. The more comfortable you are with CSS, the better equipped you will be to create an appealing website.",
+        "category": "CSS",
+        "image": "<https://i.ibb.co/sJj1kD8/css.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+]

@@ -10,7 +10,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 app.get('/', (req, res) =>{
-    res.send('Hello from world')
+    res.send('Hello from E-programming server...!!!')
 })
 
 
@@ -26,6 +26,16 @@ app.get('/courses/:category', (req, res) => {
     }
     res.send(getEveryCategory);
 });
+
+app.get('/id/:id', (req, res) =>{
+    // res.send('call from id')
+    const id = req.params.id;
+    const getAllId = courses.find((course) => course.id == id);
+    if(!getAllId){
+        res.send("This data is not available")
+    }
+    res.send(getAllId);
+})
 
 
 app.listen(port, () =>{

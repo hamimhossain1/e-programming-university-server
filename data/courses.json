@@ -65,7 +65,7 @@
         "price": 168,
         "description": "CSS, short for Cascading Style Sheets, is a style sheet language used to style websites. Colors, fonts, and page layouts for a site can all be managed using CSS. The more comfortable you are with CSS, the better equipped you will be to create an appealing website.",
         "category": "css",
-        "image": "<https://i.ibb.co/sJj1kD8/css.jpg",
+        "image": "https://i.ibb.co/sJj1kD8/css.jpg",
         "rating": {
             "rate": 3.9,
             "count": 70

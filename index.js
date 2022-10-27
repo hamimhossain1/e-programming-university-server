@@ -31,3 +31,5 @@ app.get('/courses/:category', (req, res) => {
 app.listen(port, () =>{
     console.log(`This project is listing on port: ${port}`);
 })
+
+module.exports = app;
